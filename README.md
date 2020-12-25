@@ -9,3 +9,11 @@ Sub-Problem
 Predict the average credit card consumption of each customer for the next 3 months based on the given data.
 Find which variables affect credit card consumption positively/negatively.
 Find insights on current data.
+
+File 
+    EDA:
+    Model:
+Data 
+    :trane.csv
+    :test.csv
+ 
