@@ -10,10 +10,10 @@ Predict the average credit card consumption of each customer for the next 3 mont
 Find which variables affect credit card consumption positively/negatively.
 Find insights on current data.
 
-File--
-    EDA:
-    Model:
-Data--
-    :trane.csv
-    :test.csv
+File:
+   -- EDA:Credit_consumption_eda.ipynb
+   -- Model:Credit_consumption_ml_.ipynb
+Data:
+    --trane.csv
+    --test.csv
  
